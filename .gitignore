@@ -1,6 +1,7 @@
 
 # datasets
 data/
+Dataset_BUSI_with_GT/
 **/Data_*/
 *.csv
 *.zip
@@ -8,7 +9,6 @@ data/
 *.tar
 *.npy
 *.npz
-*.png
 
 # Latex
 *.aux
