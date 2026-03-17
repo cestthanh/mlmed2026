@@ -1,6 +1,7 @@
 
 # datasets
 data/
+**/Data_*/
 *.csv
 *.zip
 *.7z
@@ -8,3 +9,12 @@ data/
 *.npy
 *.npz
 *.png
+
+# Latex
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
